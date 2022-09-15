@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/FILE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SqList_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_type" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dynamic_memory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pointer-pro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pointer-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pretreatment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/string-use" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/struct_use" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-math" vcs="Git" />
+  </component>
+</project>

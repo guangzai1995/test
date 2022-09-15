@@ -1,0 +1,1 @@
+"D:\pro\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/pro/CLion 2021.3/bin/ninja/win/ninja.exe" -G Ninja "D:\onedrive\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\大可爱\code\C\idea_c"

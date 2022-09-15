@@ -1,0 +1,6 @@
+﻿  game.c
+  test.c
+D:\onedrive\OneDrive - dugsiacademy.org\大可爱\code\three-chess\three-chess\test.c(21,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  LINK : 没有找到 D:\onedrive\OneDrive - dugsiacademy.org\大可爱\code\three-chess\x64\Debug\three-chess.exe 或上一个增量链接没有生成它；正在执行完全链接
+  three-chess.vcxproj -> D:\onedrive\OneDrive - dugsiacademy.org\大可爱\code\three-chess\x64\Debug\three-chess.exe

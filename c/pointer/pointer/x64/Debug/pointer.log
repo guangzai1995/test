@@ -1,0 +1,3 @@
+﻿  pointer.c
+D:\onedrive\OneDrive - dugsiacademy.org\大可爱\code\pointer\pointer\pointer.c(9,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  pointer.vcxproj -> D:\onedrive\OneDrive - dugsiacademy.org\大可爱\code\pointer\x64\Debug\pointer.exe

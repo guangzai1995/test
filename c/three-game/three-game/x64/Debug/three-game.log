@@ -1,0 +1,11 @@
+﻿  game.c
+D:\onedrive\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\大可爱\code\C\three-game\three-game\game.c(39,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test.c
+D:\onedrive\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\大可爱\code\C\three-game\three-game\test.c(5,2): warning C4013: “InitBoard”未定义；假设外部返回 int
+D:\onedrive\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\大可爱\code\C\three-game\three-game\test.c(6,2): warning C4013: “display_board”未定义；假设外部返回 int
+D:\onedrive\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\大可爱\code\C\three-game\three-game\test.c(8,3): warning C4013: “player_move”未定义；假设外部返回 int
+D:\onedrive\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\大可爱\code\C\three-game\three-game\test.c(10,3): warning C4013: “computer_move”未定义；假设外部返回 int
+D:\onedrive\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\大可爱\code\C\three-game\three-game\test.c(21,3): warning C4013: “menu”未定义；假设外部返回 int
+D:\onedrive\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\大可爱\code\C\three-game\three-game\test.c(22,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  three-game.vcxproj -> D:\onedrive\OneDrive - dugsiacademy.org（非洲杜吉亚卡迪公益学院）\大可爱\code\C\three-game\x64\Debug\three-game.exe
